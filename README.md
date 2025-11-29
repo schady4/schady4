@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Jarett Schadlich**
+# 👋 Hi, I'm **Jarett**
 
 ### Founder • Full-Stack Developer • Platform Architect  
 Building scalable systems & thoughtful user experiences since **2009**.
